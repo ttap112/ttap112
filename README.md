@@ -1,18 +1,24 @@
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90) 
 
  ## 💭 About me
  <h4>QWAN DONG YEOUNG (권동영)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
 
- <br/> 
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90)
-  
-![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=synthwave)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mirage)](https://solved.ac/mirage)
-  
+<br/> 
+
+
+## 📙 Rank  
+![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=synthwave) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mirage)](https://solved.ac/mirage)
+
+<br/>
+
+## 💬  My language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap112&layout=Demo&theme=synthwave)
+
+<br/>
+ 
+## 📃  Clubs and after-school classes
 
 | 동아리 및 방과후 수업 | 입학날짜 | 뭘 하는지 |
 |:--------:|:--------:|:--------:|
