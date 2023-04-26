@@ -14,3 +14,5 @@
 | 성일정보고등학교 자바 수업 | 2023. 04 ~ 현재 | 자바 기초 및 문제풀이  |
 | 성일정보고등학교 파이썬 보충 수업 | 2023. 03 ~ 현재 | 파이썬 기초 문제 풀이 및 심화 과정 수업  |
 </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
