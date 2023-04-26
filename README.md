@@ -8,11 +8,8 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap112&layout=Demo&theme=synthwave)
 
-| What | When | Where |
+| 학교 | 입학날짜 | 뭘 하는지 |
 |:--------:|:--------:|:--------:|:--------:|
-| 성일정보고등학교 프로그래머스 동아리 | 2023. 03 ~ 현재 | Sungil Information High School |
-</div>
-
-|:--------:|:--------:|:--------:|:--------:|
-| 성일정보고등학교 1학년 재학중 | 2023. 03.02 ~ 현재 |  Sungil Information High School |
+| 성일정보고등학교 프로그래머스 동아리 | 2023. 03 ~ 현재 | 코딩테스트 대비 코딩문제 풀이  |
+| 성일정보고등학교 1학년 재학중 | 2023. 03 ~ 현재 | 자바, 파이썬 문제 풀이   |
 </div>
