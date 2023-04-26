@@ -8,7 +8,7 @@
 <br/> 
 
 
-## 📙 Rank  
+## 📙 baekjoon Rank and Github stats 
 ![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=synthwave) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mirage)](https://solved.ac/mirage)
 
 <br/>
