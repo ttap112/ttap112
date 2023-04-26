@@ -4,6 +4,7 @@
  ## 💭 About me
  <h4>QWAN DONG YEOUNG (권동영)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
+ <h4>Sungil Information High School|Department of Software Development]<h4>
 
 <br/> 
 
