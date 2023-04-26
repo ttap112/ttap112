@@ -1,8 +1,10 @@
 <div align="center">
+
  ## 💭 About me
  <h4>QWAN DONG YEOUNG (권동영)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
-<br/> 
+
+ <br/> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90)
   
