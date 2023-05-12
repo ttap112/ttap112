@@ -28,4 +28,3 @@
 | 성일정보고등학교 파이썬 심화 수업 | 2023. 03 ~ 현재 | 파이썬 기초 문제 풀이 및 심화 과정 수업  |
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
