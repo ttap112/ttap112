@@ -15,7 +15,7 @@
 <br/>
 
 ## 💬  My language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap112&layout=Demo&theme=synthwave)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?ttap112=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
  
