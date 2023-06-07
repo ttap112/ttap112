@@ -14,9 +14,6 @@
 
 <br/>
 
-## 💬  My language
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ttap112)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
  
 ## 📃  Clubs and after-school classes
