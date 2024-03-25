@@ -10,20 +10,18 @@
 
 <br/> 
 
-## The language one is learning
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap112&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) <br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"/>
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap112&layout=compact)
+![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=calm_pink)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ttap112&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-## 📙 baekjoon Rank and Github stats 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mirage)](https://solved.ac/mirage)
-![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=calm_pink)
-<br/>
+##
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ttap112&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
  
