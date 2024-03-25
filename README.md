@@ -1,8 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=Mirage&animation=twinkling&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
- ## 💭 My Profile
+
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&duration=3000&pause=200&center=true&random=false&width=435&lines=Hello+Everyone.;This+is+My+profile.)](https://git.io/typing-svg)
  <h4>Name || QWAN DONG YEOUNG (권동영)</h4>
  <h4> 제가 다니는 학교및 학과 || 성일정보고등학교 소프트웨어개발과 재학중</h4>
  <h4> My schools and departments || Sungil Information High School | Department of Software Development<h4>
@@ -10,18 +11,18 @@
 <br/> 
 
 ## The language one is learning
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap112&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ttap112&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 
 ## 📙 baekjoon Rank and Github stats 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mirage)](https://solved.ac/mirage)
-![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=calm_pink)  
+![ttap112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap112&show_icons=true&theme=calm_pink)
 <br/>
 
 <br/>
