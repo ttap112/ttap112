@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=👨‍🎓👨‍💻🧑‍💻&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=👨‍🎓👨‍💻&fontAlign=70)
 
 
  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&duration=3000&pause=200&center=true&random=false&width=435&lines=Hello+Everyone.;This+is+My+profile.)](https://git.io/typing-svg)
