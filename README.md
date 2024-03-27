@@ -19,9 +19,9 @@
 
 <br/>
 
-##
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ttap112&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+
+##
 
 <br/>
  
