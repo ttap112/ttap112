@@ -5,7 +5,7 @@
 
  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&duration=3000&pause=200&center=true&random=false&width=435&lines=Hello+Everyone.;This+is+My+profile.)](https://git.io/typing-svg)
  <h4>Name || QWAN DONG YEOUNG (권동영)</h4>
- <h4> 현 다니는 학교및 학과 || 성일정보고등학교 소프트웨어개발과 재학중</h4>
+ <h4> 현 재학중인 학교및 학과 || 성일정보고등학교 소프트웨어개발과 재학중</h4>
  <h4> My schools and departments || Sungil Information High School | Department of Software Development<h4>
 
 <br/> 
